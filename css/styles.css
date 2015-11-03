@@ -1,0 +1,47 @@
+/* color pallete 
+Primaty color: #696373
+Secondary Color #BFA688
+Tercherary Color #4F4759 */
+
+/* Heading: Font Family: 'font-family: 'Abril Fatface', cursive; ' 
+Body: Copy: font-family: 'font-family: 'Playfair Display', serif; '*/
+
+/*Global*/ 
+body {
+}
+
+/*Typography*/
+
+h1, h2 {
+    font-family: 'Abril Fatface', cursive; 
+    color:#4F4759;
+        letter-spacing: 3px;
+    text-transform: uppercase;
+}
+p, blockquote {
+    font-family: 'Playfair Display', serif;
+    color: #696373;
+    line-height: 1.75em;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+blockquote {
+font-size: 2em;
+    text-align:center;
+    padding: 10px;
+    font-style: italic;
+}
+
+
+    nav li {
+        
+    display:inline-block;
+        list-style:none;
+        
+    }
+
+section img {
+width 50%
+}
+
